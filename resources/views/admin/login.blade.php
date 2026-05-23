@@ -67,7 +67,7 @@
                                     method="post" novalidate="">
                                     {{ csrf_field() }}
                                     <div class="form-group">
-                                        <label for="username">Username123</label>
+                                        <label for="username">Username</label>
                                         <input id="username" type="text" class="form-control" name="username"
                                             tabindex="1" required autofocus>
                                         <div class="invalid-feedback">
